@@ -1,0 +1,26 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "Ejercicios semana 2. Bootcamp Madrid :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbar91/week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jbar91/week2/issues"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "homepage": "https://github.com/Jbar91/week2#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
